@@ -43,7 +43,7 @@ void conv()
 void	main(int argc,char *argv[]) {
 
 	if (argc!=2) {
-		fprintf(stderr,"Usage convs word\n");
+		fprintf(stderr,"Usage alice2 word\n");
 		exit(0);
 		}
 
