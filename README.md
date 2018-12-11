@@ -1,4 +1,4 @@
-# alice2
+# alice
 
 returns strings included a given word.
 
@@ -14,8 +14,8 @@ linuxのCの開発環境で、簡単にコンパイルができます。
 
 to compile:
 
-cc alice2.c -o alice2
+cc alice.c -o alice
 
 Usage:
 
-alice2 word
+alice word
